@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-students = pd.read_csv("/Users/berkecelik/Documents/python test/students.csv")
+students = pd.read_csv("students.csv")
 
 print(students.head())
 
